@@ -1,3 +1,9 @@
+# 一个依靠百度地图API的地图检索web端
+
+## 框架
+
+React + leaflet.js + proj4.js + proj4leaflet + axios 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
